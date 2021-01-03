@@ -40,10 +40,16 @@
 
 ## Linux
 
+
 ### 软件包管理
+
+- dpkg
+- [APT](/docs/linux/软件包管理/APT)
+    - [apt-get](/docs/linux/软件包管理/APT/apt-get.md)
+    - [PPA](/docs/linux/软件包管理/APT/PPA.md)
 
 
 ### 图形
 
-- [快捷启动图标](/docs/图形/快捷启动图标)
+- [快捷启动图标](/docs/linux/图形/快捷启动图标.md)
 
