@@ -41,7 +41,7 @@
 ## Linux
 
 
-### 软件包管理
+#### 1. 软件包管理
 
 - dpkg
 - [APT](/docs/linux/软件包管理/APT)
@@ -49,7 +49,7 @@
     - [PPA](/docs/linux/软件包管理/APT/PPA.md)
 
 
-### 图形
+#### 2. 图形
 
 - [快捷启动图标](/docs/linux/图形/快捷启动图标.md)
 
