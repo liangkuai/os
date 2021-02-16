@@ -43,7 +43,7 @@
 
 #### 1. 软件包管理
 
-- dpkg
+- [ ] dpkg
 - [APT](/docs/linux/软件包管理/APT)
     - [apt-get](/docs/linux/软件包管理/APT/apt-get.md)
     - [PPA](/docs/linux/软件包管理/APT/PPA.md)
