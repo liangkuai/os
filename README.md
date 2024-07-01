@@ -1,4 +1,4 @@
-# 操作系统
+# 操作系统（Operating System）
 
 ## 基础
 
@@ -33,9 +33,12 @@
 - [intro](/docs/os/并发/README.md)
 - [并发控制策略](/docs/os/并发/并发控制策略.md)
     - 悲观并发控制
+        - [锁机制](/docs/os/并发/锁.md)
+            - [自旋锁](/docs/os/并发/自旋锁.md)
+            - [互斥量（互斥锁）](/docs/os/并发/互斥量.md)
     - 乐观并发控制
         - [版本号机制](/docs/os/并发/版本号机制.md)
-        - [CAS 算法](/docs/os/并发/CAS算法.md)
+        - [CAS](/docs/os/并发/CAS.md)
 - [死锁](/docs/os/并发/死锁.md)
 
 
